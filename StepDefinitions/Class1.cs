@@ -8,5 +8,9 @@ namespace SpecFlowApiProject.StepDefinitions
 {
     internal class Class1
     {
+        public void mytest()
+        {
+
+        }
     }
 }
